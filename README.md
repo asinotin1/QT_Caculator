@@ -24,6 +24,7 @@ các hàm chính trong file :
 ![image](https://github.com/user-attachments/assets/a0e4bb07-5bf9-4297-8a01-9403644d837c)
 ![image](https://github.com/user-attachments/assets/87cee27b-7c5d-4786-841e-0937eb6e5119)
 ![image](https://github.com/user-attachments/assets/a5c773ae-f26a-4225-86e5-461d2f856367)
+
 kích hoạt các sự kiện của các hàm :
 ![image](https://github.com/user-attachments/assets/42245749-38b6-451c-bc47-a3be345119c4)
 
