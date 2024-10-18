@@ -7,10 +7,13 @@ add các hàm thực thi vào file  mainwindow.h :
 ![image](https://github.com/user-attachments/assets/c18a40e1-5960-48f5-a73c-0a7febcdbac5)
 
 set up ui :
+
 ![image](https://github.com/user-attachments/assets/ff0065b2-ab98-4978-96eb-09e16e1654d9)
 
 file mainwindow.cpp :
-khởi tạo các biến chính 
+
+khởi tạo các biến chính
+
 ![image](https://github.com/user-attachments/assets/49192999-ed41-4571-a14e-fcb01a5b6c20)
 
 khởi tạo các nút bấm (0-9)
