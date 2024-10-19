@@ -2,15 +2,15 @@ Caculator :
 
 <img width="286" alt="image" src="https://github.com/user-attachments/assets/e2f2237f-5cf5-4edb-8590-796a5207b24b">
 
-add các hàm thực thi vào file  mainwindow.h :
+* add các hàm thực thi vào file  mainwindow.h :
 
 ![image](https://github.com/user-attachments/assets/c18a40e1-5960-48f5-a73c-0a7febcdbac5)
 
-set up ui :
+* set up ui :
 
 ![image](https://github.com/user-attachments/assets/ff0065b2-ab98-4978-96eb-09e16e1654d9)
 
-file mainwindow.cpp :
+* file mainwindow.cpp :
 
 khởi tạo các biến chính
 
@@ -19,7 +19,7 @@ khởi tạo các biến chính
 khởi tạo các nút bấm (0-9)
 ![image](https://github.com/user-attachments/assets/34ba4d68-29b4-48d8-a12d-45e141c4b19f)
 
-các hàm chính trong file :
+* các hàm chính trong file :
 
 ![image](https://github.com/user-attachments/assets/c06d3dee-c2ee-40d8-bb85-90e04f3ae835)
 ![image](https://github.com/user-attachments/assets/82a3fa84-35d3-4e45-a750-f4f0b6b1e9c5)
@@ -28,7 +28,8 @@ các hàm chính trong file :
 ![image](https://github.com/user-attachments/assets/87cee27b-7c5d-4786-841e-0937eb6e5119)
 ![image](https://github.com/user-attachments/assets/a5c773ae-f26a-4225-86e5-461d2f856367)
 
-kích hoạt các sự kiện của các hàm :
+* kích hoạt các sự kiện của các hàm :
+
 ![image](https://github.com/user-attachments/assets/42245749-38b6-451c-bc47-a3be345119c4)
 
 
